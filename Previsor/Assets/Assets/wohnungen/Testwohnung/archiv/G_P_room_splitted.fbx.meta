@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: 864246e437be2e6459459d856e9ec3ac
+timeCreated: 1441624505
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Boden
+    100002: boden_badschlaf
+    100004: boden_grbad
+    100006: boden_grschlaf
+    100008: boden_klbad1
+    100010: boden_klo
+    100012: boden_klschlaf
+    100014: "boden_k\xFCche"
+    100016: Decke
+    100018: //RootNode
+    100020: Tuer
+    100022: Tuer.001
+    100024: Tuer.002
+    100026: Tuer.003
+    100028: Tuer.004
+    100030: Waende
+    100032: Waende.001
+    100034: Waende.002
+    100036: Waende.003
+    400000: Boden
+    400002: boden_badschlaf
+    400004: boden_grbad
+    400006: boden_grschlaf
+    400008: boden_klbad1
+    400010: boden_klo
+    400012: boden_klschlaf
+    400014: "boden_k\xFCche"
+    400016: Decke
+    400018: //RootNode
+    400020: Tuer
+    400022: Tuer.001
+    400024: Tuer.002
+    400026: Tuer.003
+    400028: Tuer.004
+    400030: Waende
+    400032: Waende.001
+    400034: Waende.002
+    400036: Waende.003
+    2300000: Boden
+    2300002: boden_badschlaf
+    2300004: boden_grbad
+    2300006: boden_grschlaf
+    2300008: boden_klbad1
+    2300010: boden_klo
+    2300012: boden_klschlaf
+    2300014: "boden_k\xFCche"
+    2300016: Decke
+    2300018: Tuer
+    2300020: Tuer.001
+    2300022: Tuer.002
+    2300024: Tuer.003
+    2300026: Tuer.004
+    2300028: Waende
+    2300030: Waende.001
+    2300032: Waende.002
+    2300034: Waende.003
+    3300000: Boden
+    3300002: boden_badschlaf
+    3300004: boden_grbad
+    3300006: boden_grschlaf
+    3300008: boden_klbad1
+    3300010: boden_klo
+    3300012: boden_klschlaf
+    3300014: "boden_k\xFCche"
+    3300016: Decke
+    3300018: Tuer
+    3300020: Tuer.001
+    3300022: Tuer.002
+    3300024: Tuer.003
+    3300026: Tuer.004
+    3300028: Waende
+    3300030: Waende.001
+    3300032: Waende.002
+    3300034: Waende.003
+    4300000: Waende.003
+    4300002: Waende.002
+    4300004: Waende.001
+    4300006: boden_grbad
+    4300008: "boden_k\xFCche"
+    4300010: boden_klbad1
+    4300012: boden_klschlaf
+    4300014: boden_badschlaf
+    4300016: boden_grschlaf
+    4300018: boden_klo
+    4300020: Tuer.004
+    4300022: Tuer.003
+    4300024: Tuer.002
+    4300026: Tuer.001
+    4300028: Tuer
+    4300030: Decke
+    4300032: Boden
+    4300034: Waende
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

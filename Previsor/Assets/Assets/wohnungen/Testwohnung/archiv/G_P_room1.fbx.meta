@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: 37e3d507e8412d0448518570672354a5
+timeCreated: 1441365940
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Boden
+    100002: boden_badschlaf
+    100004: boden_grbad
+    100006: boden_grschlaf
+    100008: boden_klbad1
+    100010: boden_klo
+    100012: boden_klschlaf
+    100014: "boden_k\xFCche"
+    100016: Decke
+    100018: //RootNode
+    100020: Waende
+    400000: Boden
+    400002: boden_badschlaf
+    400004: boden_grbad
+    400006: boden_grschlaf
+    400008: boden_klbad1
+    400010: boden_klo
+    400012: boden_klschlaf
+    400014: "boden_k\xFCche"
+    400016: Decke
+    400018: //RootNode
+    400020: Waende
+    2300000: Boden
+    2300002: boden_badschlaf
+    2300004: boden_grbad
+    2300006: boden_grschlaf
+    2300008: boden_klbad1
+    2300010: boden_klo
+    2300012: boden_klschlaf
+    2300014: "boden_k\xFCche"
+    2300016: Decke
+    2300018: Waende
+    3300000: Boden
+    3300002: boden_badschlaf
+    3300004: boden_grbad
+    3300006: boden_grschlaf
+    3300008: boden_klbad1
+    3300010: boden_klo
+    3300012: boden_klschlaf
+    3300014: "boden_k\xFCche"
+    3300016: Decke
+    3300018: Waende
+    4300000: boden_grbad
+    4300002: "boden_k\xFCche"
+    4300004: boden_klbad1
+    4300006: boden_klschlaf
+    4300008: boden_badschlaf
+    4300010: boden_grschlaf
+    4300012: boden_klo
+    4300014: Decke
+    4300016: Boden
+    4300018: Waende
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
