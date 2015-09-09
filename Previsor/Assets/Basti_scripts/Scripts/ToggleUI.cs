@@ -17,7 +17,7 @@ public class ToggleUI : MonoBehaviour {
 	public Sprite overrideSprtBack;
 	public Sprite overrideSprtM;
 	public Text MenuInfo;
-	public GameObject MenuBorder;
+	//public GameObject MenuBorder;
 	public GameObject minimapCam;
 	int switchTrigger;
 
@@ -44,7 +44,7 @@ public class ToggleUI : MonoBehaviour {
 
 				anim.SetTrigger(switchTrigger);
 				Player.GetComponent<MouseLock>().MouseUnlocked();
-				MenuBorder.SetActive(true);
+				//MenuBorder.SetActive(true);
 				MenuInfo.enabled=false;
 				//minimapCam.SetActive(false);
 				canvasOn = true;
@@ -55,7 +55,7 @@ public class ToggleUI : MonoBehaviour {
 				Debug.Log("wurde aufgerufen");
 				anim.SetTrigger(switchTrigger);
 				Player.GetComponent<MouseLock>().MouseLocked();
-				MenuBorder.SetActive(false);
+				//MenuBorder.SetActive(false);
 				MenuInfo.enabled=true;
 				//minimapCam.SetActive(true);
 				canvasOn = false;
@@ -89,7 +89,7 @@ public class ToggleUI : MonoBehaviour {
 		//minimapCam.SetActive(true);
 		//Camera.main.GetComponent<Blur>().enabled=false;
 		Player.GetComponent<MouseLock>().MouseLocked();
-		MenuBorder.SetActive(false);
+		//MenuBorder.SetActive(false);
 		canvasOn=false;
 		
 	}
